@@ -1,0 +1,4 @@
+app: 
+  wafa:
+    description: Ceci est un test de spring cloud config
+    
