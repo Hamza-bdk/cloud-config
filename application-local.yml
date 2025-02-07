@@ -1,0 +1,3 @@
+app:
+  environnement: dev
+  description: ceci est une conf pour le profil local

@@ -1,0 +1,3 @@
+app:
+  environnement: dev
+  description: ceci est une confi pour le profil prod
